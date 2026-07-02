@@ -43,7 +43,7 @@ function PortfolioSection() {
           </Link>
         ))}
       </div>
-      <div className="relative flex items-center justify-center z-50 mt-12 cursor-pointer">
+      <div className="relative flex items-center justify-center z-10 mt-12 cursor-pointer">
         <Link
           to={"/portfolio"}
           rel="noopener noreferrer"
